@@ -1,0 +1,27 @@
+#include <iostream>
+#include <chrono>
+#include <algorithm>
+#include <vector>
+#include <unordered_map>
+#include <queue>
+
+using namespace std;
+
+typedef long long ll;
+
+void solve() {
+    cout << "hello" << endl;
+    return;
+}
+
+int main() {
+    int test;
+    cin >> test;
+    for (int i = 0; i < test; i++){
+        solve();
+    }
+
+    int some_random_cha = 0;
+    cin >> some_random_cha;
+    return 0;
+}
