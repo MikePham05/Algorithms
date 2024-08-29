@@ -1,0 +1,6 @@
+Notes
+
+Parallel Sum: Peformance peaked at 10 threads when run on Apple M3 Pro chip. 
+The chip is configured to run at most 10 threads at the same time without compromising
+back ground tasks. Any threads more than 10 is going to be causing overhead of
+context switching within a single core.

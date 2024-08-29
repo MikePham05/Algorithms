@@ -1,0 +1,19 @@
+DP classing problems LEARNING:
+    WHEN:
+        - Finding MIN MAX value
+        - Counting Total
+
+    Classical Problem
+    - coin counts
+    - longest subseq O(n log n):
+        dp + binary search 
+       idea: at ith position, binary search for the maximum value that dp[i] can update from in range(0,  i)
+    - Min, max path down right for grid
+
+
+Range query:
+    - Min, Max Query: pre-calculate all Min, Max value for ranges with length in power of 2 for the array
+    - Sum: Prefix Sum
+    - 
+
+
