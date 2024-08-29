@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mikepham/programming/Anh iu code/codeforces/962/a'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z5solvei, symObjAddr: 0x0, symBinAddr: 0x100003CC0, symSize: 0x78 }
+  - { offsetInCU: 0x467B, offset: 0x467B, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0xA4, symBinAddr: 0x100003D64, symSize: 0x58 }
+  - { offsetInCU: 0x46BB, offset: 0x46BB, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB8ue170006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x1FC, symBinAddr: 0x100003EBC, symSize: 0x2C }
+  - { offsetInCU: 0x7176, offset: 0x7176, size: 0x8, addend: 0x0, symName: __Z5solvei, symObjAddr: 0x0, symBinAddr: 0x100003CC0, symSize: 0x78 }
+  - { offsetInCU: 0x7259, offset: 0x7259, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB8ue170006EPFRS3_S4_E, symObjAddr: 0x78, symBinAddr: 0x100003D38, symSize: 0x2C }
+  - { offsetInCU: 0x728B, offset: 0x728B, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xFC, symBinAddr: 0x100003DBC, symSize: 0x7C }
+  - { offsetInCU: 0x72EB, offset: 0x72EB, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB8ue170006Ec, symObjAddr: 0x178, symBinAddr: 0x100003E38, symSize: 0x84 }
+  - { offsetInCU: 0x7357, offset: 0x7357, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB8ue170006Ec, symObjAddr: 0x228, symBinAddr: 0x100003EE8, symSize: 0x38 }
+...
